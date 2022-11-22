@@ -18,7 +18,7 @@ This is a supporing file for OEIS on computation of (maximal) antichains in the 
 
 
 We start with n=0 (i.e., with the set partition of zero elements), but in OEIS the respective offset is 1, i.e. there the sequences start with n=1.
-Note also that the n-th order of the Tamari means that it is built over brackeing structures on n+1 elements. 
+Note also that the n-th order of the Tamari lattice means that it is built over brackeing structures on n+1 elements. 
 
 ## References
 
