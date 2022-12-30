@@ -17,8 +17,11 @@ This is a supporing file for OEIS on computation of (maximal) antichains in the 
 #### Comment to Sections 2 and 3.
 
 
-We start with n=0 (i.e., with the set partition of zero elements), but in OEIS the respective offset is 1, i.e. there the sequences start with n=1.
+* We start with n=0 (i.e., with the set partition of zero elements), but in OEIS the respective offset is 1, i.e. there the sequences start with n=1.
 Note also that the n-th order of the Tamari lattice means that it is built over brackeing structures on n+1 elements. 
+
+* See folder AC_Tamari6 for counting antichains (ACs) in case n=6. 
+
 
 ## References
 
